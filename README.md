@@ -2,6 +2,9 @@
 
 I'm a full-stack developer specializing in backend systems.
 
+A lot of my repositories are private right now for contracts.
+Plan on posting skeletons/resume soon :)
+
 This README is a work in progress will update overtime :) 
 
 ---
