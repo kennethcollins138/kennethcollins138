@@ -18,6 +18,7 @@ This README is a work in progress will update overtime :)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tyoescruot](https://img.shields.io/badge/Typescript-3776AB?style=flat&logo=typescript&logoColor=white)
 
 ---
 
